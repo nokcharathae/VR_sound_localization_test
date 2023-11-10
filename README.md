@@ -20,6 +20,10 @@
 - Tool : Unreal Engine 5.3
 - Stack : <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src=	"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> 
 
+## Project management
+- Notion
+![Alt text](images/image.png)
+
 ## Challenging problems
 1. 실험자가 음원을 직접 어플리케이션에 추가할 수 있는 프레임워크 구축
 2. 피험자가 특정 객체를 바라보고 컨트롤러의 트리거 버튼을 누를 시 해당 이벤트 작동
